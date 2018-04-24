@@ -1,2 +1,2 @@
-# Mixamo-Assets-Thumbnails
+# Mixamo Assets Thumbnails
 Mixamo Assets Thumbnails
